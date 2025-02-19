@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to distilldemo_inclass219",
+    "description": "Welcome to our new blog, distilldemo_inclass219. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Songyi Ahn",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-19T15:14:15-08:00",
+    "input_file": {}
+  }
+]
