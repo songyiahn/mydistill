@@ -4,9 +4,22 @@ description: |
   distilldemo_inclass219
 output_dir: "docs"
 navbar:
-  right:
+  title: "Songyi's Site"
+  left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+      
+author:
+  name: "Songyi Ahn"
+  url: "https://www.linkedin.com/in/sahn5/"
+
+footer:
+  text: "my footer text"
+  
 output: distill::distill_article
+
+rmd_files:
+  - index.Rmd
+  - about.Rmd
