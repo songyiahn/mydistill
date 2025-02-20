@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2025-02-19-first-post/",
+    "title": "New Graph Post",
+    "description": {},
+    "author": [
+      {
+        "name": "Your Name",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\nthis is the first post\n\n\nknitr::opts_chunk$set(echo = FALSE)\n\n\n\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-19T19:12:45-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to distilldemo_inclass219",
     "description": "Welcome to our new blog, distilldemo_inclass219. We hope you enjoy \nreading what we have to say!",
