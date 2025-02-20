@@ -13,7 +13,24 @@
     "categories": [],
     "contents": "\nthis is the first post\n\n\nknitr::opts_chunk$set(echo = FALSE)\n\n\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2025-02-19T19:12:45-08:00",
+    "last_modified": "2025-02-19T19:23:45-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2025-02-19-second-post/",
+    "title": "Same but Orange Graph Post",
+    "description": {},
+    "author": [
+      {
+        "name": "Songyi Ahn",
+        "url": {}
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\n\n\nknitr::opts_chunk$set(echo = FALSE)\n\n\n\n\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2025-02-19T19:28:27-08:00",
     "input_file": {}
   },
   {
@@ -30,7 +47,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2025-02-19T15:46:21-08:00",
+    "last_modified": "2025-02-19T19:23:38-08:00",
     "input_file": {}
   }
 ]

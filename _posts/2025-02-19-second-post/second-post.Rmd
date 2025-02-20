@@ -1,1 +1,20 @@
-this is the second post
+---
+title: "Same but Orange Graph Post"
+author: "Songyi Ahn"
+date: "2025-02-19"
+output: distill::distill_article
+---
+
+
+```{r}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(mpg, aes(displ, cty)) +
+  geom_point(color = "orange") +
+  geom_smooth() +
+  theme_minimal()
+```
